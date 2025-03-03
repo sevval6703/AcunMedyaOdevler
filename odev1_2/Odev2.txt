@@ -1,0 +1,11 @@
+Abstract Class (Soyut Sınıf) Nedir?
+Nesne oluşturmak için kullanılamayan bir sınıftır. Bu sınıfa erişmek için başka bir sınıftan miras alınması gerekir ve yalnızca soyut bir sınıfta kullanılabilir. Kod tekrarını azaltmayı sağlar ve ortak özellikleri tek yerde toplar.
+
+
+Abstraction (Soyutlama) Nedir?
+Sınıflara sadece gerekli bilgileri sunarak sistemin iç karmaşıklığını gizler. Bir sistemi detaylara ayırır. Kod tekrarını azaltır , değişiklikler tek bir yerde yapılır genellikle ve sistemin iç yapısını değiştirmeden arayüzünü koruyabiliriz.
+
+
+POLYMORPHISM(ÇOK BİÇİMLİLİK) Nedir?
+Farklı nesnelerin aynı mesaja farklı şekillerde cevap vermesidir. Mevcut kodu değiştirmeden yeni sınıflar yeni sınıflar ekleyebiliriz. Bağlantılı sınıfları anlamlı hiyerarşiler halinde düzenlememize yardımcı olur.
+
