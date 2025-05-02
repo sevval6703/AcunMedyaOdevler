@@ -1,0 +1,17 @@
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\bin\Debug\net8.0-windows\attiribute_odev.exe
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\bin\Debug\net8.0-windows\attiribute_odev.deps.json
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\bin\Debug\net8.0-windows\attiribute_odev.runtimeconfig.json
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\bin\Debug\net8.0-windows\attiribute_odev.dll
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\bin\Debug\net8.0-windows\attiribute_odev.pdb
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.Form1.resources
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.csproj.GenerateResource.cache
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.AssemblyInfoInputs.cache
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.AssemblyInfo.cs
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.sourcelink.json
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.dll
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\refint\attiribute_odev.dll
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.pdb
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\attiribute_odev.genruntimeconfig.cache
+C:\Users\sevva\Documents\acunmedya\AcunMedyaOdevler\attiribute_odev\attiribute_odev\obj\Debug\net8.0-windows\ref\attiribute_odev.dll
